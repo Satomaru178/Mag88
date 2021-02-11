@@ -131,3 +131,12 @@ Second section - introduction2 -
 .section-contents {
   padding-top: 60px;
 }
+
+/*-------------------------------------------
+Third section - introduction3 -
+-------------------------------------------*/
+#introduction3 {
+  background-color: #f5f5f5;
+  margin-bottom: 0;
+}
+
