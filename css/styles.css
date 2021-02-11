@@ -45,6 +45,16 @@ common
   max-width: 550px;
 }
 
+/*-------------------------------------------
+button
+-------------------------------------------*/
+
+.btn {
+  display: inline-block;
+  border: 1px solid #2a2a2a;
+  padding: 13px 33px;
+}
+
 header {
   height: 100vh;
   width: 100%;
