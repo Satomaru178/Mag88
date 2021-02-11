@@ -78,3 +78,13 @@ header h1 {
 First section - introduction1 -
 -------------------------------------------*/
 
+#introduction1 .images {
+  display: flex;
+  justify-content: space-between;
+}
+
+#introduction1 .image {
+  width: calc((100% - 15px) / 2);
+  position: relative;
+}
+
