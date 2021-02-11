@@ -105,3 +105,11 @@ First section - introduction1 -
   -ms-transform: translate(-50%, -50%);
 }
 
+.textbox h3 {
+  margin-bottom: 2px;
+}
+
+.textbox p {
+  font-size: .85rem;
+}
+
