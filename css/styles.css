@@ -158,3 +158,57 @@ Third section - introduction3 -
   margin-bottom: 150px;
 }
 
+/*-------------------------------------------
+footer
+-------------------------------------------*/
+footer .wrapper {
+  background-color: #333;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: left;
+}
+
+footer .wrapper div {
+  width: 33%;
+}
+
+footer a {
+  display: inline-block;
+  height: 30px;
+}
+
+footer a:hover {
+  opacity: .7;
+}
+
+footer h3 {
+  margin-bottom: 10px;
+}
+
+.list,
+.footer-text {
+  font-size: .9rem;
+  line-height: 2;
+}
+
+footer p {
+  font-size: .75rem;
+}
+
+.list li {
+  list-style-position: inside;
+  font-size: .75rem;
+}
+
+.copy {
+  height: 80px;
+  text-align: center;
+}
+
+.copy p {
+  line-height: 80px;
+}
