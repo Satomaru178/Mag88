@@ -150,3 +150,7 @@ Third section - introduction3 -
   justify-content: space-between;
 }
 
+.item {
+  width: 48%;
+}
+
