@@ -113,3 +113,17 @@ First section - introduction1 -
   font-size: .85rem;
 }
 
+/*-------------------------------------------
+Second section - introduction2 -
+-------------------------------------------*/
+
+#introduction2 {
+  height: 520px;
+  background-image: url('../img/fashion.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.section-contents {
+  padding-top: 60px;
+}
