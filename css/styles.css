@@ -140,3 +140,8 @@ Third section - introduction3 -
   margin-bottom: 0;
 }
 
+#introduction3 .wrapper {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
