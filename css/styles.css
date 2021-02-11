@@ -12,10 +12,6 @@ a {
   font-size: .8rem;
 }
 
-a:hover {
-  opacity: .7;
-}
-
 img {
   width: 100%;
 }
@@ -55,6 +51,10 @@ button
   padding: 13px 33px;
 }
 
+.btn:hover {
+  opacity: .7;
+}
+
 /*-------------------------------------------
 header
 -------------------------------------------*/
@@ -86,6 +86,10 @@ First section - introduction1 -
 #introduction1 .image {
   width: calc((100% - 15px) / 2);
   position: relative;
+}
+
+#introduction1 .image:hover {
+  opacity: .8;
 }
 
 #introduction1 .textbox {
