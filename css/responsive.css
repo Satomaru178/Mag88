@@ -47,4 +47,17 @@
     text-align: left;
   }
 
+  .catalog {
+    margin-bottom: 30px;
+  }
+  
+  .catalog-img {
+    margin-bottom: 60px;
+  }
+
+  .antique .btn {
+    margin-top: 30px;
+    margin-bottom: 60px;
+  }
+
 }
