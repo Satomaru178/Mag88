@@ -63,6 +63,8 @@ header {
   width: 100%;
   background-image: url('../img/mainvisual.jpg');
   background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
   position: relative;
   margin-bottom: 80px;
 }
