@@ -22,4 +22,16 @@
     padding-top: 30px;
   }
 
+  /*-------------------------------------------
+  Third section - introduction3 -
+  -------------------------------------------*/
+  #introduction3 .wrapper {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  #introduction3 .flexitem {
+    flex-direction: column;
+  }
+  
 }
