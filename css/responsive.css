@@ -15,4 +15,11 @@
     margin-bottom: 30px;
   }
 
+  /*-------------------------------------------
+  Second section - introduction2 -
+  -------------------------------------------*/
+  #introduction2 .section-contents {
+    padding-top: 30px;
+  }
+
 }
