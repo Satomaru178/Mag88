@@ -1,2 +1,6 @@
 @media screen and (max-width: 892px) {
+  section {
+    margin-bottom: 40px;
+  }
+
 }
