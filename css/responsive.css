@@ -3,4 +3,16 @@
     margin-bottom: 40px;
   }
 
+  /*-------------------------------------------
+  First section - introduction1 -
+  -------------------------------------------*/
+  #introduction1 .images {
+    flex-direction: column;
+  }
+
+  #introduction1 .image {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
 }
