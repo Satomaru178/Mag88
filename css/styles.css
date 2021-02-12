@@ -127,12 +127,8 @@ Second section - introduction2 -
   background-image: url('../img/fashion.jpg');
   background-size: cover;
   background-position: center;
-}
-
-.section-contents {
   padding-top: 60px;
 }
-
 /*-------------------------------------------
 Third section - introduction3 -
 -------------------------------------------*/
