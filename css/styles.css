@@ -142,8 +142,13 @@ Third section - introduction3 -
   padding-bottom: 60px;
 }
 
+#introduction3 .section-title {
+  margin-bottom: 40px;
+}
+
 .flexitem {
   display: flex;
+  align-items: center;
   justify-content: space-between;
 }
 
