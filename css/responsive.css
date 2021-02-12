@@ -38,4 +38,13 @@
     width: 100%;
   }
 
+  #introduction3 .section-title {
+    margin-bottom: 40px;
+  }
+
+  #introduction3 .section-message {
+    max-width: 100%;
+    text-align: left;
+  }
+
 }
